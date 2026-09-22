@@ -1,7 +1,8 @@
-# Odom Privacy Policy
+# Odom Privacy Policy & Terms
 
-Public privacy policy for the Odom vehicle mileage app.
+Public legal pages for the Odom vehicle mileage app.
 
-**Live URL (use this in AdMob / store listings):** https://spaiglasses.github.io/odom-privacy/
+- **Privacy Policy:** https://spaiglasses.github.io/odom-privacy/
+- **Terms of Use:** https://spaiglasses.github.io/odom-privacy/terms/
 
-Source matches the in-app policy (`vehicle-maintenance-app` `src/privacy/privacyPolicyContent.ts`).
+Source matches the in-app / confirmed legal text. App source stays in the private vehicle-maintenance-app repo.
